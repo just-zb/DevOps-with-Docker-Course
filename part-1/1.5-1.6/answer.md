@@ -23,8 +23,6 @@ Secret message is: 'You can find the source code here: https://github.com/docker
 
 # 1.6
 
-<img src="/Users/michael/Library/Application Support/CleanShot/media/media_hz6dKc0j6S/CleanShot 2024-11-09 at 12 .45.49@2x.png" alt="CleanShot 2024-11-09 at 12 .45.49@2x" style="zoom:50%;" />
-
 ```bash
 docker run -it devopsdockeruh/pull_exercise
 

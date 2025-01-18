@@ -20,5 +20,3 @@ Secret message is: 'You can find the source code here: https://github.com/docker
 docker run -it -d -p 8888:8080 devopsdockeruh/simple-web-service server
 
 ```
-
-![CleanShot 2024-11-09 at 1 .32.01@2x](/Users/michael/Library/Application Support/CleanShot/media/media_VKps3tvIex/CleanShot 2024-11-09 at 1 .32.01@2x.png)
