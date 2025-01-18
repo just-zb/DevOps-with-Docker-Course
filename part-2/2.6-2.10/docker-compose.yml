@@ -1,0 +1,12 @@
+services:
+  db:
+    image: postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: password
+    container_name: db_redmine
+    volumes:
+      - database:/var/lib/postgresql/data
+
+volumes:
+  database:
